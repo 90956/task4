@@ -1,0 +1,131 @@
+.border{
+    margin: 50px;
+    background-color: lightgrey;
+    border:2px solid black;
+    border-radius: 100px;
+   
+    padding: 50px;
+}
+.alpha{
+    background-image:url(../image/ghost4.jpg);
+    width: 100%;
+    height: 680px;
+
+}
+ h1, p{
+    padding: 50px;
+    text-align:justify;
+    color:white;
+    text-transform: capitalize;
+}
+.text{
+    text-align-last:right;
+    color: white;
+    text-transform: lowercase;
+    letter-spacing: 5px;
+}
+.arabic{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-transform: uppercase;
+}
+.beta {
+    background-image: url(../image/shadows.png);
+    width: 86%;
+    height: 500px;
+    text-align:center;
+    font-size: 80px;
+    padding: 90px;
+    text-shadow: 6px 6px white;
+    
+}
+.beta span1{
+    color: red;
+}
+.beta span2{
+    color:lightblue;
+}
+.beta span3{
+    color:green;
+}
+.beta span4{
+    color:cyan;
+}
+.beta span5{
+    color:burlywood;
+}
+.beta span6{
+    color:yellow;
+}
+.beta span7{
+    color:turquoise;
+}
+.beta span8{
+    color:slateblue;
+}
+.beta span9{
+    color:cornflowerblue;
+}
+.beta span10{
+    color:limegreen;
+}
+.beta p{
+    color: white;
+    text-align: center;
+}
+.beta p{
+    text-shadow: 6px 6px yellow;
+}
+
+.top{
+    border: 1px solid black;
+    background-color: lightblue;
+    height: 850px;
+    text-decoration:underline white dashed;
+}
+h1{
+    font-size: 60px;
+    text-shadow: 6px 6px black;
+}
+.dot {
+    text-align: center;
+    font-size: 20px;
+    border:2px dotted black;
+    margin: 5px 500px;
+    padding: 30px;
+}
+
+.left {
+    font-size: 20px;
+    border:2px solid black;
+    margin: 100px;
+   margin-right:75%;
+   padding: 20px;
+}
+.right {
+    font-size: 20px;
+    border: 2px dashed black;
+    margin: 100px;
+   margin-left:75%;
+   padding: 20px;
+}
+.shadow h2{
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    margin: auto;
+    background-color:yellow;
+    box-shadow: 10px 10px 0px  black;
+    position: relative;
+}
+.shadow p{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    background-color: aquamarine;
+    box-shadow: 0px 0px 10px 18px black,0px 0px 10px 25px  red;
+    border-radius: 50%;
+}
